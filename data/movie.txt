@@ -1,0 +1,111 @@
+(dp0
+S'film editor'
+p1
+S'wdt:P1040'
+p2
+sS'producer'
+p3
+S'wdt:P162'
+p4
+sS'color'
+p5
+S'wdt:P462'
+p6
+sS'series'
+p7
+S'wdt:P179'
+p8
+sS'production company'
+p9
+S'wdt:P272'
+p10
+sS'country of origin'
+p11
+S'wdt:P495'
+p12
+sS'actress'
+p13
+S'wdt:P161'
+p14
+sS'distributor'
+p15
+S'wdt:P750'
+p16
+sS'based on'
+p17
+S'wdt:P144'
+p18
+sS'composer'
+p19
+S'wdt:P86'
+p20
+sS'duration'
+p21
+S'wdt:P2047'
+p22
+sS'director of photography'
+p23
+S'wdt:P344'
+p24
+sS'award received'
+p25
+S'wdt:P166'
+p26
+sS'publication date'
+p27
+S'wdt:P577'
+p28
+sS'inspired by'
+p29
+S'wdt:P941'
+p30
+sS'actor'
+p31
+g14
+sS'filming location'
+p32
+S'wdt:P915'
+p33
+sS'cast member'
+p34
+g14
+sS'nominated for'
+p35
+S'wdt:P1411'
+p36
+sS'narrative location'
+p37
+S'wdt:P840'
+p38
+sS'set in period'
+p39
+S'wdt:P2408'
+p40
+sS'director'
+p41
+S'wdt:P57'
+p42
+sS'genre'
+p43
+S'wdt:P136'
+p44
+sS'main subject'
+p45
+S'wdt:P921'
+p46
+sS'screenwriter'
+p47
+S'wdt:P58'
+p48
+sS'instanceof'
+p49
+S'wdt:P31'
+p50
+sS'original language of work'
+p51
+S'wdt:P364'
+p52
+sS'dop'
+p53
+g24
+s.
